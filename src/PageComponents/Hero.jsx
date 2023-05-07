@@ -6,7 +6,7 @@ import Bg from "../Img/Bg.png";
 
 function Hero() {
   return (
-    <div className="container mx-auto w-[90%]">
+    <div className="container mx-auto w-[90%] overflow-hidden">
       <div className="">
         <Image
           src={Bg}

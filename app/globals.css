@@ -8,6 +8,19 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #e5e5e5;
+}
+
 a {
   text-decoration: none;
+}
+
+.item {
+  border-radius: 22px;
+  background-image: url("../src/Img/FooterBg.png");
+}
+
+.hero {
+  background-image: url("../src//Img//Herp.png");
 }
