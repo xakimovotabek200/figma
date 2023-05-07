@@ -5,7 +5,7 @@ import AboutImage from "../Img/About.png";
 
 const AboutUs = () => {
   return (
-    <div>
+    <div className="container mx-auto w-[90%]">
       <Image
         src={AboutImage}
         width={"100%"}
