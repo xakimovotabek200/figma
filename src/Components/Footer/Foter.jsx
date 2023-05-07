@@ -7,7 +7,7 @@ function Footer() {
         <div className="p-5 ">
           <ul>
             <p className="text-gray-800 font-bold text-3xl pb-6">
-              Stream<span className="text-blue-600">line</span>
+              By<span className="text-blue-600">Otabek</span>
             </p>
             <div className=" gap-6 pb-5">
               Go digital with us <br /> 50 Raya Building <br /> Call us:
